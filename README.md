@@ -14,11 +14,11 @@
 
 ### Programmer Versus People
 &nbsp;&nbsp;&nbsp;&nbsp;Biasanya programmer dikaitkan dengan ketidakinginan mereka untuk berinteraksi dengan manusia karena lebih suka dengan mesin, namun hal ini merupakan generalisasi yang berlebihan. Ada juga programmer yang suka berinteraksi dengan manusia dan menikmati tantangan tersebut.</br>
-####Programmer Versus Employers</br>
+#### Programmer Versus Employers</br>
 &nbsp;&nbsp;&nbsp;&nbsp;Tanggung jawab utama seorang programmer yang profesional adalah untuk memenuhi kebutuhan dan keinginan orang yang memperkerjakan diri nya. Artinya anda harus berkolaborasi dengan para manajer, analis bisnis, tester, dan anggota tim lainnya agar dapat mengerti tujuan bisnis atau business goals dari tempat anda bekerja. Ini bukan berarti anda harus menjadi seorang pebisnis. Namun, anda tetap harus mengerti code yang anda tulis, dan bagaimana bisnis tempat anda bekerja bisa mendapatkan manfaatnya.</br>
 &nbsp;&nbsp;&nbsp;&nbsp;Programmer yang profesional menggunakan waktu sebaik-baiknya untuk mengerti bisnis tempat mereka bekerja. Mereka meminta feedback dari user tentang program yang mereka buat. Mereka berbicara dengan orang sales dan marketing tentang masalah yang mereka punya. Mereka juga berbicara dengan para manajer agar dapat mengerti gol jangka pendek dan gol jangka panjang nya.</br>
 &nbsp;&nbsp;&nbsp;&nbsp;Sebaiknya jangan terlalu fokus pada proyek dan teknologi yang sedang anda kerjakan dalam sebuah perusahaan, namun anda juga harus bisa menempatkan diri dalam perusahaan tersebut. Jangan lupakan tentang bisnis dan politik internal yang bisa muncul dan terjadi dalam perusahaan tersebut. </br>
-####Programmer Versus Programmer<br>
+#### Programmer Versus Programmer<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Programmer juga sering sekali bermasalah ketika bekerja sama dengan programmer lainnya. Hal ini menyebabkan masalah – masalah yang cukup besar.</br>
 Symptom – symptom dari development team yang tidak berfungsi adalah:</br>
 1. Owned Code</br>
